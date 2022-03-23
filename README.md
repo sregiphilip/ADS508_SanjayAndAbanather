@@ -6,3 +6,6 @@ Professor Mikael Graindorge
 Data for this project is provided by Kaggle
 H&M 256x256
 https://www.kaggle.com/datasets/odins0n/hm256x256
+
+
+Every module, we will be submitting our homework to this repo
